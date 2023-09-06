@@ -20,7 +20,7 @@
 "OWNER_NUMBER" :{
   "description" : "OWNER NUMBER",
   "required" : false,
-  "value" :"94715166712"
+  "value" :"+263714773898;263785192250"
   },
 
  "ALIVE_MESSAGE" :{
@@ -56,25 +56,25 @@
   "BOT_NAME" :{
   "description" : "YOUR BOT NAME",
   "requred" : false,
-  "value" :"𝖰𝖴𝖤𝖤𝖭 𝖤𝖫𝖨𝖲𝖠 𝖵𝟤"
+  "value" :"KING TAKX MB"
   },
 
   "OWNER_NAME" :{
-  "description" : "YOUR NAME",
+  "description" : "TAKUNDA CHARLESKANJUMA",
   "requred" : false,
-  "value" :"ᴍʀ ɴɪᴍᴀ ( ᴅᴀʀᴋ ᴍᴀᴋᴇʀ )"
+  "value" :"TAKUNDA CHARLESKANJUMA"
   },
 
   "STICKER_PACK_NAME" :{
   "description" : "STICKER PACKAGE NAME",
   "requred" : true,
-  "value" :"𝗤𝗨𝗘𝗘𝗡 𝗘𝗟𝗜𝗦𝗔 𝟮.𝟯.𝟬 𝗩"
+  "value" :"KING TAKX"
   },
 
   "STICKER_AUTHOR_NAME" :{
   "description" : "STICKER AUTHOR NAME",
   "requred" : true,
-  "value" :"🅝🅘🅜🅐 🅞🅕🅒"
+  "value" :" KING TAKX"
   },
 
   "ALIVE_LOGO" :{
