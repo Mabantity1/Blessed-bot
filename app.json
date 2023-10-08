@@ -20,7 +20,7 @@
 "OWNER_NUMBER" :{
   "description" : "OWNER NUMBER",
   "required" : false,
-  "value" :"+263714773898;263785192250"
+  "value" :"+263714773898"
   },
 
  "ALIVE_MESSAGE" :{
